@@ -11,7 +11,7 @@ const connection = mysql.createConnection({
     user: "root",
   
     // Your password
-    password: "15105Touchdownmysql!",
+    password: "",
     database: "employees_db"
   });
   
